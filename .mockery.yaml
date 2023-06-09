@@ -1,0 +1,3 @@
+# description of options can be found at https://github.com/vektra/mockery/blob/master/docs/configuration.md
+# to generate `EXPECT()` methods for your mocks. This is the preferred way to setup your mocks
+with-expecter: false
